@@ -1,0 +1,1 @@
+The enumeration file was used for all three enumerations (acid, aryl halide and alkyl halide). While only the acid enumeration notebook is uploaded, the methods are the same for all three. Changes in SMARTS and file pathways would be needed but everything else is the same and will work as intended
